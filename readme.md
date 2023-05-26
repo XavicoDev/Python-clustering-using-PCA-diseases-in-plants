@@ -16,11 +16,17 @@ Antes de aplicar las técnicas de clustering, realizamos un proceso de preproces
 
 Una vez completado el preprocesamiento de los datos, procedimos a aplicar las técnicas de clustering: PCA + k-means, PCA + K-medoids y PCA + DBSCAN. Estas técnicas nos permitieron agrupar las plantas en función de similitudes en sus características multiespectrales.
 
+**Clasificacion**
+
+![Clasificación original](images/original.png)
+
 **Resultados**
 
 Los resultados obtenidos del clustering aplicado son importantes para comprender los patrones y agrupaciones en los datos multiespectrales. Estos resultados nos brindan información valiosa sobre las similitudes entre las plantas y nos ayudan a detectar la enfermedad de la sigatoka negra en base a las características analizadas.
 
 Es importante tener en cuenta que los resultados del clustering están sujetos a evaluación y validación adicional. Para ello, podemos comparar nuestras clasificaciones con las etiquetas originales de las plantas y realizar análisis de calidad de los clústeres.
+
+
 
 **Conclusiones**
 
