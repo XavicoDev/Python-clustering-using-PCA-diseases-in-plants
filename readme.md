@@ -19,15 +19,19 @@ Una vez completado el preprocesamiento de los datos, procedimos a aplicar las t�
 **Clasificacion**
 
 Clasificaci처n original
+
 ![Clasificaci처n original](images/original.png)
 
 Clasificaci처n con kmeans
+
 ![Clasificaci처n original](images/kmeans.png)
 
 Clasificaci처n con kmedoids
+
 ![Clasificaci처n original](images/kmedoids.png)
 
 Clasificaci처n con DBSCAN
+
 ![Clasificaci처n original](images/DBSCAN.png)
 
 **Resultados**
